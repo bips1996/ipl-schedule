@@ -8,8 +8,8 @@ The direct execution of the project only needs two steps
 
 ### Get your cid
 Follow thsese two pictures to get you calender id
-<img align="center" source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
-<img align="center" source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
+<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
+<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
 
 ### Run 
 Open this <a href="https://docs.google.com/spreadsheets/d/1Go3UxvM3NrkuEm33dFMN_VAcCTHfMn2PXSsLsPpOTM0/edit#gid=0" >google sheet</a>
