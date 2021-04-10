@@ -8,8 +8,8 @@ The direct execution of the project only needs two steps
 
 ### Get your cid
 Follow thsese two pictures to get you calender id
-<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
-<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.jpg" />
+<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.png" />
+<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.png" />
 
 ### Run 
 Open this <a href="https://docs.google.com/spreadsheets/d/1Go3UxvM3NrkuEm33dFMN_VAcCTHfMn2PXSsLsPpOTM0/edit#gid=0" >google sheet</a>
@@ -23,8 +23,8 @@ And run the code and check your calender
 Enjoy you are a sudo programmer now😊
 
 ### Note :- 
-- Do not edit anything else or the google sheet
-- Do not delpoy the script
+- Do not edit either the script or the google sheet
+- Do not delpoy the script(only run)
 - If you want any experiment clone the repo and try by yours
 - Do not give multiple runs else multiple instances will be created
 
