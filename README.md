@@ -1,4 +1,4 @@
-# ipl-schedule
+# ipl-schedule 2021
 A small piece of appscript to load the whole ipl schedule to your google calender. You will be notified every morning(10am) as well as for checking up the whole schedule you need not to visit any other sources, Just open your calender.
 
 ### How to Run directly
@@ -7,9 +7,7 @@ The direct execution of the project only needs two steps
 - Run the app script
 
 ### Get your cid
-Follow thsese two pictures to get you calender id
-<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.png" />
-<img source = "https://github.com/bips1996/ipl-schedule/blob/main/pictures/1.png" />
+Follow thsese two <a href="https://github.com/bips1996/ipl-schedule/tree/main/pictures">pictures</a> to get you calender id
 
 ### Run 
 Open this <a href="https://docs.google.com/spreadsheets/d/1Go3UxvM3NrkuEm33dFMN_VAcCTHfMn2PXSsLsPpOTM0/edit#gid=0" >google sheet</a>
